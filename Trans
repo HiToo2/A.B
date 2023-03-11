@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        <h1 style="color:green"><b><u>TRANSBESE</u></b></h1>
+     <!--?-->   <nav><a href="#bottom">bottom</a></nav>
+        <div class="box">
+            transpesa2
+        </div>
+         <p class="intro">secure and private</p>
+         <p>todays rate</p>
+         <select>
+             <option>ksh=128</option>
+             <option>sdg=black market:600,bank:?</option>
+         </select>
+         <p>hi</p>
+         <p>hi</p>
+         <p><button 
+    onclick="alert('Welcome to TRANSBESE')">
+    Transbese</button></p>
+         <p><i>Registered yet?</i></p>
+          <form>
+              <select>
+                  <option>yes</option>
+                  <option>no</option>
+              </select>
+          </form>
+          <label for "text">Name</label><br>
+          <input type="text" value="Name"><br>
+          <label for "tel">Contact</label><br>
+          <input type="tel" id="tel"><br>
+          <label for "em">Email</label><br>
+          <input type="email" id="em"><br>
+          <label for "pass">Password</label><br>
+          <input type="Password"><br>
+          <p>contact:</p>
+          <table>
+              <tr>
+                  <td>currenxy</td>
+                  <td>bank</td>
+                  <td>unofficial</td>
+                  
+              </tr>
+              <tr>
+                  <td>ksh</td>
+                  <td>128</td>
+              </tr>
+                  
+              <tr>
+                  <td>sdg</td>
+                  <td>??!</td>
+                  <td>600</td>
+              </tr>
+          </table>
+         <p>
+         sending ksh/sd/$ receiving ksh/sd/$
+         <form>
+             Input amount * 
+             Ksh to sdn (128ksh*60)
+             Ksh to $
+             Sdn to ksh
+             sdn to $
+             $ to ksh 
+             $ to ksh
+         </form>
+         </p>
+           <form>
+               <select>
+                   <option>From Sudan</option>
+                   <option>To Sudan</option>
+                   <input type="submit">
+               </select>
+           </form>
+           <a href="#top">top</a>
+    </body>
+<footer>®Afrobokas 2023</footer>
+</html>
